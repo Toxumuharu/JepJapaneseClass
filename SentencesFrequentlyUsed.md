@@ -3,10 +3,11 @@
 - 〜 の いみ は なんですか。 - What is the meaning of 〜
 - 〜 は えいご で なんと いいますか？ - How do we say 〜 in English?
 - じしょ で いみ を しらべて ください - Please search the meaning on your dictionary.
-
 - しりません - I don't know.
 - すみません、わすれました - I'm sorry I forgot it.
 - この たんご の いみ は 〜 です。 - This word means 〜.
+- 〜 を しょうかい します。 - I will introduce 〜.
+
 
 
 # Words
@@ -22,3 +23,6 @@
 - ちなみに - additionally
 - しかし - but/however
 - それでは - then
+- 丁寧 - polite
+- これら - these
+- 確認 - check
