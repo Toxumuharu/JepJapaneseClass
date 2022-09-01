@@ -17,5 +17,5 @@
 ----
 
 Permission
-  a. How to permit
-  b. How to ask
+ a. How to permit
+ b. How to ask

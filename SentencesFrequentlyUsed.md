@@ -5,8 +5,10 @@
 - じしょ で いみ を しらべて ください - Please search the meaning on your dictionary.
 - しりません - I don't know.
 - すみません、わすれました - I'm sorry I forgot it.
+- おぼえて いません - I don't remember.
 - この たんご の いみ は 〜 です。 - This word means 〜.
 - 〜 を しょうかい します。 - I will introduce 〜.
+- 〜 は、わかります が、xx は、わかりません - I understand 〜、but don't understand xx.
 
 
 
